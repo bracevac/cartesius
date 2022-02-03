@@ -3,8 +3,7 @@
 Cartesius is a language for programming joins over asynchronous streams uniformly
 and extensibly. 
 
-Its source code currently [lives elsewhere](https://github.com/bracevac/corrl), but will soon
-move here. 
+The source code can be found [here](https://github.com/bracevac/corrl).
 
 ## References
 
